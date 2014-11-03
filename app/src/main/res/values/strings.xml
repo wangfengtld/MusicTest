@@ -5,4 +5,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+  <string name="lu">卢</string>
+  <string name="qiong">琼</string>
+  <string name="hui">慧</string>
+  <string name="wo">我</string>
+  <string name="xi">喜</string>
+  <string name="huan">欢</string>
+  <string name="ni">你</string>
 </resources>
